@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="calculator_accent_color">#1594d3</color>
+    <color name="calculator_error_color">#ffc2185b</color>
+    <color name="calculator_primary_color">#000000</color>
+    <color name="calculator_statusbar_color">#000000</color>
+    <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
+    <color name="common_google_signin_btn_text_dark_disabled">#1f000000</color>
+    <color name="common_google_signin_btn_text_dark_focused">@android:color/black</color>
+    <color name="common_google_signin_btn_text_dark_pressed">@android:color/white</color>
+    <color name="common_google_signin_btn_text_light_default">#90000000</color>
+    <color name="common_google_signin_btn_text_light_disabled">#1f000000</color>
+    <color name="common_google_signin_btn_text_light_focused">#90000000</color>
+    <color name="common_google_signin_btn_text_light_pressed">#de000000</color>
+    <color name="display_background_color">#000000</color>
+    <color name="display_formula_text_color">#ffffffff</color>
+    <color name="display_result_exponent_text_color">#d5deed</color>
+    <color name="display_result_text_color">#d5deed</color>
+    <color name="empty_history_color">#000000</color>
+    <color name="pad_advanced_background_color">#e91c86</color>
+    <color name="pad_button_advanced_ripple_color">#1a000000</color>
+    <color name="pad_button_advanced_text_color">#ffffffff</color>
+    <color name="pad_button_ripple_color">#1a000000</color>
+    <color name="pad_button_text_color">#ffffffff</color>
+    <color name="pad_numeric_background_color">#000000</color>
+    <color name="pad_operator_background_color">#000000</color>
+</resources>

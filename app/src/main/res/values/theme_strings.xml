@@ -1,0 +1,11 @@
+<resources>
+    <string name="ThemeName">Dexter</string>
+    <string name="ThemeAuthor">Rohit Chouhan</string>
+    <string-array name="ThemeChangelog">
+        <item>Added ad status bar</item>
+        <item>Added comma status bar</item>
+        <item>Update the plugin</item>
+        <item>Added all the screenshots to a drive folder</item>
+        <item></item>
+    </string-array>
+</resources>
